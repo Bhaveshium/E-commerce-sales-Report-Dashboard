@@ -4,7 +4,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/Bhaveshium/E-commerce-sales-Report-Dashboard/blob/main/Ecommerce%20sales%20Report%20Dashboard.jpeg" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/Bhaveshium/E-commerce-sales-Report-Dashboard/blob/main/Ecommerce%20sales%20Report%20Dashboard.jpeg" alt="project-screenshot" width="1316" height="738/">
 
   
   
