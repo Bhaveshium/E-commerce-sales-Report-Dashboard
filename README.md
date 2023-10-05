@@ -1,6 +1,6 @@
 <h1 align="center" id="title">E-commerce sales Report Dashboard</h1>
 
-<p id="description">E-commerce Sales Report Dashboard in Power BI: An interactive and visually compelling data visualization solution designed to provide comprehensive insights into your online retail business. This dynamic dashboard offers a clear overview of key e-commerce metrics such as sales performance revenue trends product analytics and customer behavior. Users can easily navigate and drill down into the data facilitating informed decision-making and strategy optimization for your e-commerce operations. Sorting according to individual states.</p>
+<p id="description"> An interactive and visually compelling data visualization solution designed to provide comprehensive insights into your online retail business. This dynamic dashboard offers a clear overview of key e-commerce metrics such as sales performance revenue trends product analytics and customer behavior. Users can easily navigate and drill down into the data facilitating informed decision-making and strategy optimization for your e-commerce operations. Sorting according to individual states.</p>
 
 <h2>Project Screenshots:</h2>
 
